@@ -4,3 +4,7 @@ This project is using the Arduino Pro Micro as a game controller.
 
 Using the [Joystick Library](https://github.com/MHeironimus/ArduinoJoystickLibrary)
 
+4 Push Button
+3 Rotary Encoder
+
+13 programmable button
